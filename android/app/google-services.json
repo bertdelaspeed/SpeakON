@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434973685514",
+    "project_id": "speakon-458c5",
+    "storage_bucket": "speakon-458c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434973685514:android:1c7c9c4c263aff30d72cf3",
+        "android_client_info": {
+          "package_name": "com.bertdelaspeed.speakon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434973685514-7hk6vgm1ktp3odag25qom0g4k3afcur4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPVrOdMh6chCn-YY7h5MWheVdVpys0G1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434973685514-7hk6vgm1ktp3odag25qom0g4k3afcur4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
